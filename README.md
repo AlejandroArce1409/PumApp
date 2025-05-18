@@ -2,6 +2,11 @@
 
 PumApp es una aplicación educativa móvil desarrollada en Flutter para estudiantes de la UNAM (CCH, prepa UNAM y facultades). Su objetivo es centralizar herramientas y recursos académicos en una sola plataforma, facilitando la organización de materias, recordatorios y la interacción entre compañeros y profesores.
 
+## 📲 Descarga de la APK
+
+La última versión de la APK está disponible en la sección de **Tags** de este repositorio:
+
+➡️ [Descargar APK desde Releases](https://github.com/AlejandroArce1409/PumApp/tags)
 ---
 
 ## Características principales
